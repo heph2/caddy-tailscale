@@ -3,8 +3,8 @@ module github.com/tailscale/caddy-tailscale
 go 1.19
 
 require (
-	github.com/caddyserver/caddy/v2 v2.5.3-0.20220831215348-67098e5cbd68
-	tailscale.com v1.1.1-0.20220902232949-3344c3b89bd1
+	github.com/caddyserver/caddy/v2 v2.6.4
+	tailscale.com v1.36.2
 )
 
 require (
