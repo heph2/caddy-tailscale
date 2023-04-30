@@ -1,4 +1,4 @@
-module github.com/tailscale/caddy-tailscale
+module github.com/heph2/caddy-tailscale
 
 go 1.19
 
